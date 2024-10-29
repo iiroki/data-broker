@@ -1,6 +1,6 @@
 # Data Broker
 
-Data broker built with MassTransit
+Data broker built with MassTransit.
 
 ## Setup
 
